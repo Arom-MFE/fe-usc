@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+statsmodels
+networkx
+scikit-learn
+arch
+QuantLib
+openpyxl
+jupyter
